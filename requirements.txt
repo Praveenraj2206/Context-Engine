@@ -1,0 +1,5 @@
+pandas 
+numpy 
+textdistance
+scikit-learn 
+sentence-transformers
