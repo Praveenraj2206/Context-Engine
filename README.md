@@ -1,1 +1,4 @@
-The Context Engine is built to extract, process, and understand the deeper meaning within textual data. It bridges the gap between experimental model training and functional implementation.
+## 🛠️ Installation
+To clone this repository:
+
+`git clone https://github.com/Praveenraj2206/Natural_Language_Processing.git`
